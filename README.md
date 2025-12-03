@@ -12,7 +12,7 @@ Unlike standard development, my focus is on building **defensible data assets** 
 
 * **[`/case-studies`](./case-studies)**
     * Detailed technical breakdowns of complex server implementations.
-    * *Featured:* [Hybrid Cloud Data Architecture (WordPress + PostgreSQL)](./infrastructure-case-studies/hybrid-cloud-architecture.md)
+    * *Featured:* [Hybrid Cloud Data Architecture (WordPress + PostgreSQL)](https://github.com/teresakaylor/portfolio/blob/main/case-studies/hybrid-cloud-architecture.md))
 * **[`/code-samples`](./code-samples)**
     * Sanitized production code demonstrating specific logic (PHP, SQL, Python).
     * *Featured:* Secure GCP Connectivity via PDO.
@@ -39,7 +39,7 @@ I engineered a **Hybrid Cloud Bridge**:
 **Key Outcome:**
 * **Cost Governance:** Achieved Enterprise-grade data isolation for **<$10/mo** using specialized Micro-tier instances.
 * **Performance:** Offloaded write-heavy AI logging to the cloud, preserving frontend speed for users.
-* **[Read the Full Technical Case Study Here](./case-studies/hybrid-cloud-architecture.md)**
+* **[Read the Full Technical Case Study Here](https://github.com/teresakaylor/portfolio/blob/main/case-studies/ai-engine-data-persistence-pipeline.md)**
 
 ---
 
