@@ -81,6 +81,6 @@ By treating our "Link-in-Bio" as a core part of our infrastructure rather than a
 ***
 
 ### 📂 Repository Notes
-* **Related Plugins:** Bit Social, Google Analytics 4
+* **Related Plugins:** Bit Social, SEO Press Pro (or some redirection plug-in), Google Analytics 4
 * **Status:** Live & Production Ready
 * **Tags:** `#DataSovereignty`, `#WordPress`, `#CostOptimization`, `#MarketingOps`
