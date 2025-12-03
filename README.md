@@ -18,7 +18,7 @@ Unlike standard development, my focus is on building **defensible data assets** 
     * *Featured:* Secure GCP Connectivity via PDO.
 * **[`/projects`](./projects)**
     * High-level overviews of SaaS and Data products I have engineered.
-    * *Featured:* https://github.com/possible-this
+    * *Featured:* [Possible This](https://github.com/possible-this)
 
 ---
 
