@@ -70,4 +70,4 @@ I am available for consulting and architectural reviews.
 * **Website:** https://possiblethis.com/github
 
 ---
-*© 2025 | Built with Markdown & Code*
+*© 2025 Teresa Kaylor | Built with Gemini*
