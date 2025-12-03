@@ -1,0 +1,52 @@
+/* === 1. Target the Container (The List itself) === */
+.social-stack-full.wp-block-social-links {
+    display: flex !important;
+    flex-direction: column !important;
+    
+    /* WIDTH FIX: respecting the parent container's padding */
+    width: 100% !important; 
+    max-width: 100% !important; /* Prevents blowing out the sides */
+    
+    /* CUSTOM METRIC: 35px gap */
+    gap: 35px !important; 
+    
+    /* Reset margins so it sits cleanly */
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 !important;
+}
+
+/* Target the Individual List Items */
+.social-stack-full .wp-social-link {
+    width: 100% !important;
+    margin: 0 !important;
+    list-style: none !important; /* Removes bullet points if any */
+}
+
+/* Target the Clickable Button (The "Pill") */
+.social-stack-full .wp-social-link a {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: center !important; /* Centers text */
+    align-items: center !important; /* Centers text vertically */
+    
+    /* CUSTOM METRIC: 13px padding */
+    padding-top: 13px !important;
+    padding-bottom: 13px !important;
+    
+    /* Ensures the border and padding are calculated INSIDE the width */
+    box-sizing: border-box !important; 
+}
+
+/* === 2. UNIFY THE HOVER EFFECT: Make UGC Buttons Grow === */
+
+/* Target the anchor tag of the standard button block */
+.wp-block-button__link:hover {
+    /* Subtle 3% growth on hover (less distracting than the default 5%) */
+    transform: scale(1.10); 
+    
+    /* Adds a smooth transition instead of a jerky jump */
+    transition: transform 0.2s ease-in-out; 
+}

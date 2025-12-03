@@ -1,0 +1,27 @@
+/* MONTSERRAT: DEFINITIVE FONT METRIC OVERRIDES */
+@font-face {
+  font-family: 'Montserrat Fallback';
+  size-adjust: 95.63%; 
+  ascent-override: 99.6%;
+  src: local('Arial');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-display: swap;
+  src: url('https://possiblethis.com/wp-content/uploads/fonts/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w7Y3tcoqK5.woff2') format('woff2'); 
+}
+
+/* DM SANS: DEFINITIVE FONT METRIC OVERRIDES */
+@font-face {
+  font-family: 'DM Sans Fallback';
+  size-adjust: 96.06%; 
+  ascent-override: 100.1%; 
+  src: local('Arial');
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-display: swap;
+  src: url('https://possiblethis.com/wp-content/themes/ollie/assets/fonts/dm-sans/DMSans-VariableFont_opsz,wght.woff2') format('woff2'); 
+}
