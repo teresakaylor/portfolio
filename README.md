@@ -55,7 +55,7 @@ I engineered a **Hybrid Cloud Bridge**:
 * **Optimization:** Core Web Vitals (LCP/CLS) tuning, Asset loading strategies.
 
 ### 🛡️ Operational Philosophy
-1.  **Cost Governance:** Architecting systems that scale without breaking the bank.
+1.  **Cost Governance:** Architecting systems that scale without breaking the bank as demonstrated in the [deployment of a native link page](https://github.com/teresakaylor/portfolio/blob/main/case-studies/sovereign-link-page-infrastructure.md) instead of relying on a costly Linktree subscription.
 2.  **Data Defensibility:** Ensuring data ownership and structure (Schema) support future machine learning needs.
 3.  **Non-Destructive Deployment:** Using "Surgical Snippets" and GitHub version control to prevent production downtime.
 
