@@ -16,9 +16,8 @@ Unlike standard development, my focus is on building **defensible data assets** 
 * **[`/code-samples`](./code-samples)**
     * Sanitized production code demonstrating specific logic (PHP, SQL, Python).
     * *Featured:* Secure GCP Connectivity via PDO.
-* **[`/projects`](./projects)**
+* **[Possible This](https://github.com/possible-this)**
     * High-level overviews of SaaS and Data products I have engineered.
-    * *Featured:* [Possible This](https://github.com/possible-this)
 
 ---
 
