@@ -24,6 +24,7 @@ if (extension_loaded('pdo_pgsql')) {
     // Return Critical Failure Alert
 }
 ```
+https://github.com/teresakaylor/portfolio/blob/main/code-samples/postgres-driver-test.php
 
 Result: The diagnostic returned a Negative (Red Banner), confirming the driver was absent at the server level.
 
