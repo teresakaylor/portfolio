@@ -16,9 +16,9 @@ Unlike standard development, my focus is on building **defensible data assets** 
 * **[`/code-samples`](./code-samples)**
     * Sanitized production code demonstrating specific logic (PHP, SQL, Python).
     * *Featured:* Secure GCP Connectivity via PDO.
-* **[Possible This](https://github.com/possible-this)**
-    * SaaS and Data products I have engineered.
-
+* SaaS and Data products I have engineered.
+   * **[Possible This](https://github.com/possible-this)**
+    
 ---
 
 ## 🚀 Featured Project: Possible This "Verdict Engine" Architecture
