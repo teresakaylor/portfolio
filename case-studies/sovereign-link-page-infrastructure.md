@@ -73,7 +73,7 @@ Different platforms treat links differently. We customized the deployment for ea
 
 ## 5. The Results (Speed)
 
-Google Pagespeed Insights score of 100% in performance, accessibility, best practices, and SEO on mobile and desktop.
+After implementing [fetch priority logos PHP](https://github.com/possible-this/frontend/blob/main/fetchpriority-logos.php) Google Pagespeed Insights scored of 100% in performance, accessibility, best practices, and SEO on mobile and desktop. I also added some pretty CSS to [make the social pills behave like site buttons](https://github.com/possible-this/frontend/blob/main/assets/css/make-social-icon-pills-behave.css). It's both gorgeous and FAST!
 
 ## 6. Conclusion
 By treating our "Link-in-Bio" as a core part of our infrastructure rather than an afterthought, we turned a passive navigation menu into a **First-Party Data Asset**. We now own the user journey from the very first click, reinforcing the project's valuation as a rigorous data research engine.
