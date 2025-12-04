@@ -48,5 +48,7 @@
     transform: scale(1.10); 
     
     /* Adds a smooth transition instead of a jerky jump */
-    transition: transform 0.2s ease-in-out; 
+    transition: transform 0.2s ease-in-out;
+    /* Disable the underline on hover */
+    text-decoration: none;
 }
