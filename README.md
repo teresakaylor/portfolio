@@ -67,7 +67,7 @@ I am available for consulting and architectural reviews.
 
 * **GitHub:** https://github.com/teresakaylor
 * **LinkedIn:** www.linkedin.com/in/teresa-kaylor
-* **Website:** https://possiblethis.com/github
+* **Website:** https://possiblethis.com/hub
 
 ---
 *© 2025 Teresa Kaylor | Built with Gemini*
