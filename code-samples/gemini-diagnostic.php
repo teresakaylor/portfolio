@@ -54,4 +54,3 @@ function possible_get_gemini_verdict($user_topic) {
         return "🛑 MALFORMED JSON: " . print_r($data, true);
     }
 }
-?>
