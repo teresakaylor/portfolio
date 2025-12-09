@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', function() {
     // Selectors for ALL Social Links:
     // 1. .is-style-default a (For the global footer buttons)
@@ -19,4 +18,3 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
-</script>
