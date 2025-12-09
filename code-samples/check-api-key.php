@@ -18,4 +18,3 @@ if ( defined('POSSIBLE_GEMINI_KEY') ) {
     Did you save the file?
     </div>';
 }
-?>
