@@ -1,0 +1,32 @@
+/* Possible This: Global CSS for High-Impact CTAs */
+
+/* Target common WordPress button classes */
+.wp-block-button__link,
+.button,
+a.button {
+    /* Remove text decoration (underlines) for the default state */
+    text-decoration: none !important; 
+    /* The !important ensures it overrides other theme or block styles */
+}
+
+/* Target hover and focus states for all buttons and button-like links */
+.wp-block-button__link:hover,
+.wp-block-button__link:focus,
+.button:hover,
+a.button:hover {
+    /* Explicitly prevent the underline from appearing on hover */
+    text-decoration: none !important;
+    /* You may also want to add a subtle visual change for the hover state here 
+       (e.g., background-color or box-shadow) to maintain interactivity feedback */
+}
+
+/* Ensure our new, strategic Plausibility Score links also behave like buttons */
+/* Replace 'your-link-class' with the actual class name you use for the Plausibility Score links */
+.plausibility-score-link {
+    text-decoration: none !important;
+}
+
+.plausibility-score-link:hover,
+.plausibility-score-link:focus {
+    text-decoration: none !important;
+}
